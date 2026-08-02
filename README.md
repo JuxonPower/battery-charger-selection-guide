@@ -30,6 +30,17 @@ Incorrect voltage, connector polarity or charging profile can damage a battery s
 | Golf carts and utility vehicles | Higher power, environmental protection and robust connectors |
 | Marine and industrial systems | Cooling, enclosure, input supply, protection and installation method |
 
+## Real JUXON charger photos
+
+Each image is a real JUXON product photo from this repository. Click a photo to open the corresponding official model page.
+
+| Model | Product photo |
+| --- | --- |
+| Juxon010-100A 100W e-bike battery charger | [![JUXON Juxon010-100A 100W e-bike battery charger](./JZX010-100A.jpg)](https://www.juxonpower.com/en/products/juxon010-100a/?utm_source=github&utm_medium=referral&utm_campaign=juxon010_100a) |
+| Juxon010-100J 100W e-bike battery charger | [![JUXON Juxon010-100J 100W e-bike battery charger](./JZX010-100J.jpg)](https://www.juxonpower.com/en/products/juxon010-100j/?utm_source=github&utm_medium=referral&utm_campaign=juxon010_100j) |
+| Juxon010-840A 840W IP65 lithium battery charger | [![JUXON Juxon010-840A 840W IP65 lithium battery charger](./JZX010-840A.jpg)](https://www.juxonpower.com/en/products/juxon010-840a/?utm_source=github&utm_medium=referral&utm_campaign=juxon010_840a) |
+| Juxon010-3000A 3000W industrial lithium battery charger | [![JUXON Juxon010-3000A 3000W industrial lithium battery charger](./JZX010-3000A.jpg)](https://www.juxonpower.com/en/products/juxon010-3000a/?utm_source=github&utm_medium=referral&utm_campaign=juxon010_3000a) |
+
 ## Example JUXON charger models
 
 - [Juxon010-100A 100W charger](https://www.juxonpower.com/en/products/juxon010-100a/?utm_source=github&utm_medium=referral&utm_campaign=juxon010_100a)
